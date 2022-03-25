@@ -4,6 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/PROJECTS/flutter_2022_01/Food-Runner-App/app/src/main/res/drawable/cart_button_background.xml" value="0.24635416666666668" />
+        <entry key="..\:/PROJECTS/flutter_2022_01/Food-Runner-App/app/src/main/res/drawable/searchview_background.xml" value="0.172" />
+        <entry key="..\:/PROJECTS/flutter_2022_01/Food-Runner-App/app/src/main/res/drawable/text_boundary_background.xml" value="0.172" />
+        <entry key="..\:/PROJECTS/flutter_2022_01/Food-Runner-App/app/src/main/res/font/poppins.xml" value="0.26458333333333334" />
+        <entry key="..\:/PROJECTS/flutter_2022_01/Food-Runner-App/app/src/main/res/layout/activity_cart.xml" value="0.16621376811594202" />
+        <entry key="..\:/PROJECTS/flutter_2022_01/Food-Runner-App/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/PROJECTS/flutter_2022_01/Food-Runner-App/app/src/main/res/layout/activity_forgot_password.xml" value="0.264" />
         <entry key="..\:/PROJECTS/flutter_2022_01/Food-Runner-App/app/src/main/res/layout/activity_splash.xml" value="0.2" />
       </map>
     </option>
